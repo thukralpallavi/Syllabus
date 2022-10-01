@@ -1,0 +1,8 @@
+u: UNIT 3:
+Inter Process Communication And Synchronization
+API for Internet Protocol, Data Representation & Marshaling,
+Group Communication, Client Server Communication, 
+RPC- Implementing RPC Mechanism,
+Stub Generation, 
+RPC Messages. Synchronization: - Clock Synchronization, 
+Mutual Exclusion, Election Algorithms:- Bully & Ring Algorithms.
