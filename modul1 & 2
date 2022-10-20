@@ -1,0 +1,14 @@
+Module I (10 LECTURES)
+The Security Problem in Computing: The meaning of computer Security, Computer
+Criminals, Methods of Defense, Elementary Cryptography: Substitution Ciphers,
+Transpositions, Making “Good” Encryption algorithms, The Data Encryption Standard, The
+AES Encryption Algorithms, Public Key Encryptions, Uses of Encryption.
+
+
+Module II (10 LECTURES)
+Program Security: Secure Programs, Nonmalicious Program Errors, viruses and other
+malicious code, Targeted Malicious code, controls Against Program Threats, Protection in
+General- Purpose operating system protected objects and methods of protection memory and
+addmens protection, File protection Mechanisms, User Authentication Designing Trusted
+O.S: Security polices, models of security, trusted O.S design, Assurance in trusted O.S.
+Implementation examples
